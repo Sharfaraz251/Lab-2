@@ -1,0 +1,157 @@
+[
+    {
+      "Id": 1,
+      "Title": "Pulp Fiction",
+      "ReleaseYear": 1994,
+      "Genre": "Crime Drama",
+      "ActorList": [
+        "brucewillis",
+        "umathurman",
+        "samueljackson"
+      ]
+    },
+    {
+      "Id": 2,
+      "Title": "Mrs. Doubtfire",
+      "ReleaseYear": 1993,
+      "Genre": "Comedy Drama",
+      "ActorList": [
+        "robinwilliams",
+        "sallyfield"
+      ]
+    },
+    {
+      "Id": 3,
+      "Title": "Forrest Gump",
+      "ReleaseYear": 1994,
+      "Genre": "Romance Drama",
+      "ActorList": [
+        "tomhanks",
+        "robinwright",
+        "sallyfield"
+      ]
+    },
+    {
+      "Id": 4,
+      "Title": "Apollo 13",
+      "ReleaseYear": 1995,
+      "Genre": "Adventure Drama History",
+      "ActorList": [
+        "tomhanks"
+      ]
+    },
+    {
+      "Id": 5,
+      "Title": "Beowulf",
+      "ReleaseYear": 2007,
+      "Genre": "Animation Action Adventure Fantasy",
+      "ActorList": [
+        "angelinajolie",
+        "robinwright",
+        "anthonyhopkins"
+      ]
+    },
+    {
+      "Id": 6,
+      "Title": "Unbreakable",
+      "ReleaseYear": 2000,
+      "Genre": "Drama Mystery Sci-Fi Thriller",
+      "ActorList": [
+        "brucewillis",
+        "robinwright",
+        "samueljackson"
+      ]
+    },
+    {
+      "Id": 7,
+      "Title": "Girl, Interrupted",
+      "ReleaseYear": 1999,
+      "Genre": "Biography Drama",
+      "ActorList": [
+        "winonaryder",
+        "angelinajolie"
+      ]
+    },
+    {
+      "Id": 8,
+      "Title": "Dracula",
+      "ReleaseYear": 1992,
+      "Genre": "Drama Fantasy Horror Romance",
+      "ActorList": [
+        "winonaryder",
+        "anthonyhopkins"
+      ]
+    },
+    {
+      "Id": 9,
+      "Title": "Good Morning, Vietnam",
+      "ReleaseYear": 1987,
+      "Genre": "Biography Comedy Drama War",
+      "ActorList": [
+        "robinwilliams",
+        "forestwhitaker"
+      ]
+    },
+    {
+      "Id": 10,
+      "Title": "(Good) Will Hunting",
+      "ReleaseYear": 1997,
+      "Genre": "Romance Drama",
+      "ActorList": [
+        "robinwilliams",
+        "mattdamon"
+      ]
+    },
+    {
+      "Id": 11,
+      "Title": "The Departed",
+      "ReleaseYear": 2006,
+      "Genre": "Crime Drama Thriller",
+      "ActorList": [
+        "leonardodicaprio",
+        "mattdamon"
+      ]
+    },
+    {
+      "Id": 12,
+      "Title": "The Wolf of Wall Street",
+      "ReleaseYear": 2013,
+      "Genre": "Biography Comedy Crime Drama",
+      "ActorList": [
+        "leonardodicaprio",
+        "jonahhill",
+        "matthewmcconaughey"
+      ]
+    },
+    {
+      "Id": 13,
+      "Title": "Moneyball",
+      "ReleaseYear": 2011,
+      "Genre": "Biography Drama Sport",
+      "ActorList": [
+        "bradpitt",
+        "robinwright",
+        "jonahhill"
+      ]
+    },
+    {
+      "Id": 14,
+      "Title": "Mr. & Mrs. Smith",
+      "ReleaseYear": 2005,
+      "Genre": "Action Comedy Crime Thriller",
+      "ActorList": [
+        "bradpitt",
+        "angelinajolie"
+      ]
+    },
+    {
+      "Id": 15,
+      "Title": "Twelve Monkeys",
+      "ReleaseYear": 1995,
+      "Genre": "Mystery Sci-Fi Thriller",
+      "ActorList": [
+        "brucewillis",
+        "bradpitt"
+      ]
+    }
+  ]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d73nF9OhdKqsiCW3JuYZkiNgMe6Zcv3UrZpDPmaSA4zgLV9qW4M3ZRYgsjTILORUef6nnTPHMk2eV9c16pL8+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afridi\\Downloads\\Lab 2\\lab2\\lab2-LilBrian\\MovieLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afridi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

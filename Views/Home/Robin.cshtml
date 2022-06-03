@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Movies with Robin Williams, ordered alphabetically";
+}
+
+@{var allMovies = Movie.GetAllMovies();
+var moviesAlphabetically = allMovies.OrderBy(x => x.Title);
+var movieCount = 0;
+for (var i=0; i < @allMovies.Count; i++)
+    { 
+        if (!@moviesAlphabetically.ElementAt(@i).ActorList.Contains("robinwilliams")){
+            continue;
+        }
+        else {
+            movieCount++;
+        }
+    }
+}
+
+<h1 class="purple-text darken-3">@ViewData["Title"] (@movieCount movies)</h1>
+
+<div class="text-center">
+    <div class="row">
+       @{ for (var i=0; i < @allMovies.Count; i++)
+            { 
+                @* Skip any movie released in 2000 or later *@
+                if (!@moviesAlphabetically.ElementAt(@i).ActorList.Contains("robinwilliams")){
+                    continue;
+                }
+                else {
+                   
+                     <div class="col s12 m6 l4">
+                        <div class="card purple darken-1">
+                            <div class="card-content white-text">
+                            <span class="card-title"> @moviesAlphabetically.ElementAt(@i).Title</span>
+                            <p>This a movie by Robin William</p>
+                            </div>
+                            <div class="card-action">
+                            <a href='/Home/MoviePage@($"?SearchQuery={@moviesAlphabetically.ElementAt(@i).Id}")' class="waves-effect waves-light btn purple"><i class="material-icons left purple">arrow_forward</i>visit</a>
+                            </div>
+                       </div>
+                    </div>
+                }
+            }}
+    </div>
+</div>

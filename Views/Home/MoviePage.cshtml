@@ -1,0 +1,40 @@
+@model Movie
+@{
+    ViewData["Title"] = "Movie title";
+}
+
+@{
+    var allMovies = Movie.GetAllMovies();
+    var selectedMovie = allMovies.Find(x => x.Id == Model.SearchQuery);
+    var allActors = Actor.GetAllActors();
+}
+
+<div class="text-center">
+    <h1 class="purple-text darken-3">@selectedMovie.Title</h1>
+    <h5 class="gray-text">@selectedMovie.Genre</h2>
+    <h6>@selectedMovie.ReleaseYear</h6>
+    <div class="row" style="margin-bottom: 200px;">
+    @{
+         for (var i=0; i < @allActors.Count; i++)
+            { 
+                @* Skip any actor who didn't star in the movie *@
+                if (!@allActors.ElementAt(@i).MovieList.Contains(Model.SearchQuery)){
+                    continue;
+                }
+                else {
+                     <div class="col s12 m6 l4">
+                        <div class="card purple darken-1">
+                            <div class="card-content white-text">
+                            <span class="card-title">@allActors.ElementAt(@i).FirstName @allActors.ElementAt(@i).LastName</span>
+                            <p>Actor</p>
+                            </div>
+                            <div class="card-action">
+                            <a href='/Home/ActorPage@($"?ShowActor={@allActors.ElementAt(@i).Id}")' class="waves-effect waves-light btn purple"><i class="material-icons left purple">arrow_forward</i>Know more</a>
+                            </div>
+                       </div>
+                    </div>
+                }
+            }
+    }
+    </div>
+</div>

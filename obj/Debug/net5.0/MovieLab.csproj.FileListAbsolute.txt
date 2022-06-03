@@ -1,0 +1,137 @@
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/appsettings.Development.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/appsettings.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/Data/Actors.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/Data/Movies.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.deps.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.runtimeconfig.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.runtimeconfig.dev.json
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/ref/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.Views.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/bin/Debug/net5.0/MovieLab.Views.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.AssemblyReference.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.AssemblyInfoInputs.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.AssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.CoreCompileInputs.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorAssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/staticwebassets/MovieLab.StaticWebAssets.Manifest.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/staticwebassets/MovieLab.StaticWebAssets.xml
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/scopedcss/bundle/MovieLab.styles.css
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.TagHelpers.input.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.TagHelpers.output.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorCoreGenerate.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorTargetAssemblyInfo.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.RazorTargetAssemblyInfo.cs
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.Views.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/ref/MovieLab.dll
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.pdb
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.genruntimeconfig.cache
+/Users/kevinferm/Jobb/JTH/MovieLab/obj/Debug/net5.0/MovieLab.csproj.CopyComplete
+D:\AWA\lab2-lilbrian\bin\Debug\net5.0\appsettings.Development.json
+D:\AWA\lab2-lilbrian\bin\Debug\net5.0\appsettings.json
+D:\AWA\lab2-lilbrian\bin\Debug\net5.0\Data\Actors.json
+D:\AWA\lab2-lilbrian\bin\Debug\net5.0\Data\Movies.json
+D:\AWA\lab2-lilbrian\bin\Debug\net5.0\MovieLab.exe
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.csproj.AssemblyReference.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.AssemblyInfoInputs.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.AssemblyInfo.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.csproj.CoreCompileInputs.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.MvcApplicationPartsAssemblyInfo.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.Manifest.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.xml
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\scopedcss\bundle\MovieLab.styles.css
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.TagHelpers.input.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.TagHelpers.output.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.RazorCoreGenerate.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cache
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cs
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.Views.pdb
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.dll
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\ref\MovieLab.dll
+D:\AWA\lab2-lilbrian\obj\Debug\net5.0\MovieLab.pdb
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.deps.json
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.runtimeconfig.json
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.runtimeconfig.dev.json
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.dll
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\ref\MovieLab.dll
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.pdb
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.Views.dll
+D:\AWA\lab2-LilBrian\bin\Debug\net5.0\MovieLab.Views.pdb
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\MovieLab.genruntimeconfig.cache
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\MovieLab.csproj.CopyComplete
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Before.cshtml.g.cs
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Drama.cshtml.g.cs
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Robin.cshtml.g.cs
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Three.cshtml.g.cs
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\MoviePage.cshtml.g.cs
+D:\AWA\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\ActorPage.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\appsettings.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\Data\Actors.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\Data\Movies.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.StaticWebAssets.xml
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.exe
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.deps.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.runtimeconfig.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.runtimeconfig.dev.json
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.dll
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.pdb
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.Views.dll
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\bin\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.AssemblyInfo.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.RazorAssemblyInfo.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\scopedcss\bundle\MovieLab.styles.css
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\staticwebassets\MovieLab.StaticWebAssets.Manifest.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.TagHelpers.input.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.TagHelpers.output.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.RazorCoreGenerate.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\ActorPage.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Before.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Drama.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\MoviePage.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Robin.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Home\Three.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.RazorTargetAssemblyInfo.cs
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.Views.pdb
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.dll
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\ref\MovieLab.dll
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.pdb
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.genruntimeconfig.cache
+C:\Users\Afridi\Downloads\Lab 2\lab2\lab2-LilBrian\obj\Debug\net5.0\MovieLab.csproj.CopyComplete

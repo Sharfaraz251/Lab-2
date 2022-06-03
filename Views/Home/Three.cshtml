@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Movies with three actors, oldest first";
+}
+
+@{var allMovies = Movie.GetAllMovies();
+var moviesByYear = allMovies.OrderBy(x => x.ReleaseYear);
+var movieCount = 0;
+ for (var i=0; i < @allMovies.Count; i++)
+    { 
+        if (@moviesByYear.ElementAt(@i).ActorList.Count!=3){
+            continue;
+        }
+        else {
+            movieCount++;
+        }
+    }
+}
+
+<h1 class="purple-text darken-3">@ViewData["Title"] (@movieCount movies)</h1>
+
+<div class="text-center">
+    <div class="row" style="margin-bottom: 200px;">
+       @{ for (var i=0; i < @allMovies.Count; i++)
+            { 
+                @* Skip any movie released in 2000 or later *@
+                if (@moviesByYear.ElementAt(@i).ActorList.Count!=3){
+                    continue;
+                }
+                else {
+                    <div class="col s12 m6 l4">
+                        <div class="card purple darken-1">
+                            <div class="card-content white-text">
+                            <span class="card-title">  @moviesByYear.ElementAt(@i).Title</span>
+                            <p>This a movie with three actors</p>
+                            </div>
+                            <div class="card-action">
+                            <a href='/Home/MoviePage@($"?SearchQuery={@moviesByYear.ElementAt(@i).Id}")' class="waves-effect waves-light btn purple"><i class="material-icons left purple">arrow_forward</i>visit</a>
+                            </div>
+                       </div>
+                    </div>
+                }
+            }}
+    </div>
+</div>
